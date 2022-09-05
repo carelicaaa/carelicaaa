@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Geophysics**
 
-- ⚡ Fun fact **i am a learner and worker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
