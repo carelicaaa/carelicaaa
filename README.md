@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Carelica</h1>
+<h1 align="center">Eyyoo! I'm Carelica 👋 </h1> 
+   u can call me carel, ica, or kayel ^_^
+
 - 🔭 I’m currently working on [YouTube Channel "Danang Giri Sadewa"](https://www.youtube.com/user/Danang481)
 
 - 🌱 I’m currently learning **Geophysics**
